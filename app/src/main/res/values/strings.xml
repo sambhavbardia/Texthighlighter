@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Text Highlighter</string>
+    <string name="service_desc">Finds the text you select on screen and draws a green box or dark green highlight over it. Only reads on-screen text; nothing is stored or sent anywhere.</string>
+</resources>
