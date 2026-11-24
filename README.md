@@ -8,7 +8,7 @@ Pushed to GitHub with Pack2Git.
 - `app`
 - `gradle`
 
-13 files were committed in the first push.
+15 files were committed in the first push.
 
 ## Getting started
 
